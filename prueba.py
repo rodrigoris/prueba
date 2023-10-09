@@ -1,2 +1,2 @@
-a= 'Helo World'
-print(a)
+variable= 'Helo World'
+print(variable)
